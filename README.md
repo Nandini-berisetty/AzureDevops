@@ -1,0 +1,2 @@
+# AzureDevops
+practical sessions
